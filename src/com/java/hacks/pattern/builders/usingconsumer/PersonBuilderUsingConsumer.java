@@ -2,7 +2,7 @@ package com.java.hacks.pattern.builders.usingconsumer;
 
 import java.util.function.Consumer;
 
-import com.java.hacks.pattern.builders.setter.Person;
+import com.java.hacks.pattern.builders.common.Person;
 
 public class PersonBuilderUsingConsumer {
 

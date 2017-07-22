@@ -1,5 +1,7 @@
 package com.java.hacks.pattern.builders.extendclass;
 
+import com.java.hacks.pattern.builders.common.Person;
+
 public class MainApp {
 
 	public static void main(String[] args) {
