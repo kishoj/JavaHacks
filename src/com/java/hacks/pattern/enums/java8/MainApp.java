@@ -12,6 +12,7 @@ public class MainApp {
 		State.S3.getNextStates()
 		.forEach(System.out::println);
 		
+		
 		State.S1.getPossibleTransitions()
 			.forEach(System.out::println);
 		
